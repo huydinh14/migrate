@@ -1,0 +1,8 @@
+﻿{
+  "MySQL": {
+    "connectstr": "server=10.68.60.61;port=3306;uid=joget;pwd=Pgbank@2023;database=jwdb"
+  },
+  "Oracle": {
+    "connectstr": "data source=//pgdbdr-scan.pgbank.com.vn:1521/pgdb;user id=CRM3CX;password=CrM2023#PgbanK789;"
+  }
+}
